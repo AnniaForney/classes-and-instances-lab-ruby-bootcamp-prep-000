@@ -7,5 +7,5 @@ fido
 snoopy = Dog.new
 snoopy
 
-lassie = 
+lassie = Dog.new 
 lassie 
